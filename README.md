@@ -6,15 +6,6 @@
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
 
-### Files
-
-* [Test Data](Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
-
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
-
-### Stock market analyst
-
-![stock Market](Images/stockmarket.jpg)
 
 ### Easy
 
@@ -73,14 +64,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * Submit your VBA Scripts as separate files.
 
 ## Submission
-
-* To submit please save the following in the same folder to [https://www.dropbox.com/](https://www.dropbox.com/).
  
   * A screen shot for each year of your results on the Multi Year Stock Data.
 
   * VBA Scripts as separate files.
-
-* After everything has been saved, create a sharable link and submit that to [https://bootcampspot-v2.com/](https://bootcampspot-v2.com/). 
 
 - - -
 
