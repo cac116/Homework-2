@@ -17,7 +17,6 @@ worksheet_count = ActiveWorkbook.Worksheets.Count
         For worksheet_row_index = 2 To lastRow
 
             If Worksheets(worksheet_index).Cells(worksheet_row_index, 1).Value = Worksheets(worksheet_index).Cells(worksheet_row_index + 1, 1).Value Then
-            'On Error GoTo ErrorHandler
                 ticker_volume = Worksheets(worksheet_index).Cells(worksheet_row_index, 7).Value + ticker_volume
 
             Else
