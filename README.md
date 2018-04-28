@@ -13,10 +13,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * You will also need to display the ticker symbol to coincide with the total volume.
 
-* Your result should look as follows.
-
-![easy_solution](Images/easy_solution.png)
-
 ### Moderate
 
 * Create a script that will loop through all the stocks and take the following info.
@@ -31,19 +27,11 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
-
-![moderate_solution](Images/moderate_solution.png)
-
 ### Hard
 
 * Your solution will include everything from the moderate challenge.
 
 * Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
-
-* Solution will look as follows.
-
-![hard_solution](Images/hard_solution.png)
 
 ### CHALLENGE
 
