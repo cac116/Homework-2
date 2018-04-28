@@ -3,7 +3,7 @@ Sub FindMax()
     Dim Max_Percent_Change, Min_Percent_Change, Max_Volume As Double
     Dim MaxPercentRow, MinPercentRow, MaxVolumeRow  As Long
     
-    For worksheet_index = 1 To 1 'worksheet_count
+    For worksheet_index = 1 To worksheet_count
 
         Set PercentRnG = Worksheets(worksheet_index).Range("Q1", Range("Q" & Rows.Count).End(xlUp))
         Set VolumeRnG = Worksheets(worksheet_index).Range("K1", Range("K" & Rows.Count).End(xlUp))
